@@ -11,6 +11,9 @@ description: A signal that survives its own stress tests.
 
 When a company's own officers sell stock after the price has run up hard, the stock tends to lag the market over the next 6 to 12 months. The heaviest "sell-into-strength" cases preceded roughly a **24% shortfall versus the S&P 500 over six months**, after stripping out each company's baseline drift and the broad market.
 
+![Forward excess return falling across deciles of sell-into-strength.](../assets/fig/insider_deciles.png)
+*Forward six-month excess return by decile of the strength signal. The relationship is close to monotonic: the harder the insiders sell into strength, the worse the stock does next.*
+
 ## What this piece demonstrates
 
 - **A sharp, falsifiable hypothesis**, not a fishing expedition: the signal is specifically in sales made into strength, not insider selling in general (most of which carries no signal).

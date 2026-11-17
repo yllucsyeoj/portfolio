@@ -11,11 +11,17 @@ description: Revenue up 57%, visits tripled, and the average ticket halved. Behi
 
 The clinic looked like a clear success: visits nearly tripled in 18 months and revenue grew 57% year on year. But the **average ticket had halved**, from about NT$5,500 to NT$2,600. Underneath a healthy top line, the business had quietly stopped being a surgical practice and become a wellness and chronic-care one, and its entire future rested on a cohort-retention bet that no one had written down.
 
+![Quarterly checkout volume rising while the average ticket falls by half.](../assets/fig/vet_scissors.png)
+*Checkout volume (bars) against average ticket value (line). Anonymised clinic billing data, 2024Q2 to 2026Q1 (final quarter partial).*
+
 ## What this piece demonstrates
 
 - **It read the mechanism of growth, not just the direction.** Revenue up and to the right is where most reporting stops. The composition told the real story: more visits, each worth far less, because the case mix had shifted.
 - **It named a strategic shift the owners were living but had not quantified.** Surgery revenue fell about 93% over five quarters while medication grew roughly 13x. The falling average ticket was a change in what the clinic does, not price erosion. Those are opposite diagnoses with opposite responses.
 - **It found the single bet the business depends on.** 82% of patients were enrolled as puppies or kittens, and revenue per patient runs about 2.4x higher once they reach adulthood, yet the prime-adult bracket is currently empty. The clinic's future is almost entirely "do we keep the 2024 puppy cohort as they age," and that reframes what to measure.
+
+![Surgery revenue collapsing while medication revenue climbs sharply.](../assets/fig/vet_modeshift.png)
+*Quarterly revenue by care mode. Surgery fell roughly 93% while medication grew about 13x, the clearest single view of the business-model shift.*
 
 ## The risks the numbers expose
 

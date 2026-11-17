@@ -7,9 +7,15 @@ description: A vehicle-routing and geodemographic study for Hines that put a num
 
 [&larr; Back to portfolio](../) · [Read the full 44-page paper (PDF)](../papers/hines001-logistics-location-analysis.pdf)
 
+![The full Greater London road network rendered as a routing graph.](../assets/fig/hines_network.png)
+*The Greater London road network as a routing graph. Travel-time matrices over this network drive the delivery simulation.*
+
 ## The finding in one line
 
 For a high-income customer base, picking the wrong London depot out of 23 cost more than **£1 per delivery**. Over 2,500 deliveries a week that is **£138,750 a year**, roughly the annual rent on 7,000 sq ft of industrial space in Acton, hidden inside a rent decision that looked like it was already settled.
+
+![Depot cost spread by customer archetype, widest for a high-income base.](../assets/fig/hines_spread.png)
+*Best-to-worst depot cost spread for each customer archetype. A sharply-defined base (top) pays dearly for the wrong location; an evenly-spread one barely notices.*
 
 ## What this piece demonstrates
 

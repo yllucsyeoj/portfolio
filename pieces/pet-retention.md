@@ -11,6 +11,9 @@ description: A pet-services chain's enrolment opportunity looked like a 10x bigg
 
 Customers on the chain's membership platform were worth **3.7x more** over their lifetime than those who had never joined (NT$22,517 vs NT$6,058). The obvious read was a **NT$16.7M prize**: enrol the 1,014 customers who had not joined, lift them to member value, bank the difference. That number was a mirage. The honest, reachable prize was closer to **NT$1.7M**, and saying so was the point of the engagement.
 
+![The naive NT$16.7M opportunity next to the honest NT$1.7M one.](../assets/fig/pet_mirage.png)
+*The "convert every non-member" figure assumes all 1,014 can reach average member value. Most cannot, which is where the gap comes from.*
+
 ## What this piece demonstrates
 
 - **It started from the decision, not the dashboard.** The question on the table was whether to run a large enrolment campaign. So the job was to size that prize properly before anyone spent money chasing it.
@@ -18,6 +21,9 @@ Customers on the chain's membership platform were worth **3.7x more** over their
 - **It kept correlation and causation apart.** Members engage more, but it is not established that enrolment *causes* the engagement rather than engaged customers *choosing* to enrol. I flagged this as something a controlled pilot has to settle, instead of asserting a causal NT$16.7M and letting someone budget against it.
 
 That is the job. Anyone can multiply a 3.7x gap by 1,014 customers and present a big number. The value is being the person who says the big number is wrong, shows why, and hands back the smaller one you can actually hit.
+
+![Average lifetime value: members at NT$22,517 versus non-members at NT$6,058.](../assets/fig/pet_ltv.png)
+*The 3.7x gap is the headline. Whether enrolment causes it or engaged customers self-select into it is the question a pilot has to answer.*
 
 ## What the customer base actually looked like
 

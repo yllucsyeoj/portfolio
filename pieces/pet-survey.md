@@ -11,6 +11,9 @@ description: It is not the segment you would target. A survey of 267 pet owners,
 
 The obvious way to target a pre-planned pet funeral product is by demographics: age, gender, "urban professional women in their forties." In this data **age and gender predicted nothing**. The real buyer is found through a behavioural chain: owners with 10+ years of tenure are far more likely to have experienced pet loss, which is by far the strongest predictor of knowing the product exists, which leads to a planning mindset, which is what actually predicts intent to buy.
 
+![Association strengths for behavioural predictors, with age and gender at zero.](../assets/fig/survey_effects.png)
+*Cramér's V for each relationship after false-discovery correction. Behavioural signals clear the effect-size floor; age and gender do not register.*
+
 ## What this piece demonstrates
 
 - **It refused the obvious segmentation and proved it was empty.** Segmenting by "35 to 45 year old women" feels right and is not evidence-based here. After correcting for multiple comparisons, gender produced zero significant links to any key outcome and age predicted none of them. The piece says so plainly instead of quietly dropping it.

@@ -11,6 +11,9 @@ description: Segmenting 221 wholesale accounts to find the 6% that carry a third
 
 **Twelve accounts, 6% of the customer base, generate 34.5% of wholesale revenue** (TWD 11.2M) and are still growing. Underneath them, the 75% of accounts that make up the mainstream channel are quietly shrinking at a median of **−82 TWD/month**. The business looks healthy in aggregate and is actually two opposite stories stacked on top of each other.
 
+![Three segments compared by share of accounts versus share of revenue.](../assets/fig/swim_concentration.png)
+*Key Accounts are 6% of the book and 34.5% of revenue. Standard Retailers are 75% of accounts and the segment in decline.*
+
 ## What this piece demonstrates
 
 - **It starts from the commercial question, not the clustering.** The brief was not "segment the customers." It was: which relationships do we protect, where is the money really concentrated, and why does the base feel soft even while the headline grows. The segmentation exists to answer those.
@@ -26,6 +29,9 @@ That middle point is the job. Anyone can run a clustering algorithm. The value i
 | **Key Accounts** | 12 (6%) | 34.5% | Growing (+168 TWD/mo) | Dedicated account manager, quarterly reviews, first access to launches, tiered volume rebates. Protect and deepen. |
 | **Swim Specialists** | 35 (18%) | ~13% | Mild decline | All Taipei, cap-heavy assortment tied to clubs and schools. Pre-summer sell-in, expand the cap range, pilot a club/school programme. |
 | **Standard Retailers** | 146 (75%) | 52% | Declining (−82 TWD/mo) | The pressing risk. Triage: protect the top quartile, move the rest to a self-serve catalogue, simplify to hero SKUs, reactivate accounts gone quiet past three months. |
+
+![Revenue trend per segment: Key Accounts growing, the other two declining.](../assets/fig/swim_trend.png)
+*Monthly revenue trend by segment. The large mainstream base has the most negative trend, which points at category saturation rather than any single lost account.*
 
 The declining mainstream is the headline risk. It is a large, dispersed base of goggle-only accounts with the most negative trend of any segment, which points at category saturation rather than any single lost customer. A brand that only watched its total revenue line would miss it entirely, because the growing Key Accounts are papering over it.
 
