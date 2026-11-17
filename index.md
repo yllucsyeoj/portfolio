@@ -21,6 +21,7 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 
 - **[The £138,750 hidden inside a warehouse rent](pieces/hines-logistics):** a vehicle-routing and geodemographic study for Hines that put a number on the logistics cost buried in where a warehouse sits. Published as a research paper. **Live.**
 - **[Finding store sites with graph theory instead of a map](pieces/woodfine-site-selection):** modelled every retailer in the US as a graph to find where a Walmart, a Costco and a Home Depot cluster together, ranking 9,189 candidates down to 41. **Live.**
+- **[Scoring every site in a country as a location](pieces/site-scoring-engine):** a multi-criteria model that ranks a national network of fuel-and-logistics sites against roughly 38 signed criteria, from port growth to competitor pricing gaps, across six countries. **Live.**
 
 ### Marketplace and growth
 
