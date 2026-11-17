@@ -32,6 +32,7 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 
 - **[Insiders selling into strength](pieces/insider-buybacks):** a study of 9,009 officer stock sales across 48 US companies, and the signal that survived its own stress tests. Full code and 84 offline tests in the repo. **Live.**
 - **[A finding that survives some tests and fails others](pieces/scale-and-signal):** a self-directed study of German district-level data where a demographic signal holds under regional controls and collapses under spatial ones. The piece is about which of the two answers to trust, and why. **Live.**
+- **[The 1% supplier that was really half the supply](pieces/hidden-dependency):** a self-directed study of concentration risk in trade networks, where a dependency that looks like 1% of direct purchases turns out to be 49% once you trace it through the intermediaries. **Live.**
 
 ## Methods and tools
 
