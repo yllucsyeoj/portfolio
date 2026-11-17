@@ -24,10 +24,6 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 - **[Scoring every site in a country as a location](pieces/site-scoring-engine):** a multi-criteria model that ranks a national network of fuel-and-logistics sites against roughly 38 signed criteria, from port growth to competitor pricing gaps, across six countries. **Live.**
 - **[Designing a building around the people who will live in it](pieces/city-as-buildings):** found the residents of comparable developments in an aggregate mobility panel and clustered them into behavioural archetypes, to inform the design and marketing of a new residential scheme. Aggregate only, no individual identified. **Live.**
 
-### Marketplace and growth
-
-- **Cold-start supply from regulatory signals:** used public licensing data to seed the supply side of a B2B marketplace before it had sellers. *(writeup in preparation)*
-
 ### Market research and segmentation
 
 - **[Who actually buys a pre-planned pet funeral](pieces/pet-survey):** a survey of 267 pet owners run with real statistical discipline, where the obvious segments (age, gender) predicted nothing and a behavioural chain predicted everything. **Live.**
