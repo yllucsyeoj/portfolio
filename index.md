@@ -13,6 +13,7 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 
 ### Commercial and customer analytics
 
+- **[A membership programme worth NT$16.7M, or NT$1.7M?](pieces/pet-retention):** a pet-services chain's enrolment opportunity looked ten times bigger than it was. Found the honest, actionable number and the retention problem underneath it. **Live.**
 - **[Where a swimwear brand's revenue actually lives](pieces/swimwear-retention):** segmented 221 wholesale accounts and found that 6% of them carry a third of revenue while the mainstream base quietly shrinks. Ends in a different playbook per segment. **Live.**
 
 ### Decision science and logistics
