@@ -18,7 +18,7 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 
 ### Decision science and logistics
 
-- **Routing cost under dynamic pricing:** rebuilt a last-mile cost model across 23 depots and roughly 1,900 routes, surfacing a £138,750/year swing from how archetype pricing interacted with routing. *(writeup in preparation)*
+- **[The £138,750 hidden inside a warehouse rent](pieces/hines-logistics):** a vehicle-routing and geodemographic study for Hines that put a number on the logistics cost buried in where a warehouse sits. Published as a research paper. **Live.**
 
 ### Marketplace and growth
 
