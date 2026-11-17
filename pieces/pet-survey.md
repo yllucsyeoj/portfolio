@@ -34,6 +34,8 @@ A survey instrument covering service behaviour, brand awareness, price expectati
 
 This is a convenience sample skewed toward the group's own audience, 76% female and concentrated in Taipei, so the levels (how many are interested) are not population estimates. The relationships (what predicts what) are the durable part. Outcomes are self-reported intent, which overstates eventual purchase. The value is a disciplined map of which signals to target on and, just as useful, which to stop wasting money on.
 
+**Methods and tools:** survey analysis, Cramér's V association, Benjamini-Hochberg false-discovery correction, effect-size thresholding, Python.
+
 ---
 
 *Built by Joey Scully. Product and Commercial Analytics consultant. Available for remote interim and contract work.*

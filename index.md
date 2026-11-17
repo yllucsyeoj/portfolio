@@ -37,6 +37,10 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 - **[Insiders selling into strength](pieces/insider-buybacks):** a study of 9,009 officer stock sales across 48 US companies, and the signal that survived its own stress tests. Full code and 84 offline tests in the repo. **Live.**
 - **[A finding that survives some tests and fails others](pieces/scale-and-signal):** a self-directed study of German district-level data where a demographic signal holds under regional controls and collapses under spatial ones. The piece is about which of the two answers to trust, and why. **Live.**
 
+## Methods and tools
+
+Across these projects: customer segmentation and cohort analysis, multi-criteria decision models (TOPSIS), spatial and geodemographic analysis, panel regression with robustness testing, vehicle-routing and drive-time catchments, and survey analysis with multiple-comparison discipline. Mostly Python, with DuckDB, OSRM, NetworkX, scikit-learn and scikit-criteria.
+
 ## Contact
 
 - Email: scully.joey@gmail.com

@@ -35,6 +35,8 @@ A consistent spatial frame of 4,835 small areas (ONS LSOAs) across Greater Londo
 
 The archetypes are modelled test populations, not one real retailer's order book, so the figures show the size and shape of the effect rather than one company's exact bill. Costs are simulated from a routing and cost model, not measured from operations. The data is 2020 London. The value of the method is that it is repeatable and that it quantifies something the industry priced by feel.
 
+**Methods and tools:** vehicle-routing simulation, OSRM travel-time matrices, Google OR-Tools solver, geodemographic clustering, spatial autocorrelation (Local Moran's I / LISA), Python.
+
 ---
 
 *Built by Joey Scully. Product and Commercial Analytics consultant. Available for remote interim and contract work.*

@@ -20,7 +20,7 @@ When a company's own officers sell stock after the price has run up hard, the st
 - **Robustness decided before looking:** the pattern holds split by time period (pre-2024 vs 2024+) and by a random split of the 48 companies. It does not depend on any single stock.
 - **The judgment call that matters:** a flashier earlier version of this story claimed the signal came from discretionary sales. It was a mirage, two stocks (PLTR, RBLX) wearing a trench coat, 21% of the sales producing 76% of the effect. I killed it. The finding I kept passes exactly the test the flashy one failed.
 
-That last point is the whole job. The value is not running the regression. It is knowing which result to trust and being willing to throw away the publishable-looking one that is wrong.
+That last point matters most. The value is not running the regression. It is knowing which result to trust, and being willing to throw away the publishable-looking one that is wrong.
 
 ## Method
 
@@ -32,6 +32,8 @@ Focal 6-month estimate: strength coefficient **−0.239** (*t* = −6.9, *p* < 0
 
 A historical association checked for robustness, not a prediction made in advance and not a trading strategy (returns are measured versus the market, before costs). 48 large, liquid, mostly-tech names are not the whole market. Delisted companies are underrepresented. The result is clean and falsifiable, and that is all it claims to be.
 
+**Methods and tools:** two-way fixed-effects panel regression, company-clustered standard errors, inverse-variance weighting, decile analysis, out-of-sample robustness splits, Python.
+
 ---
 
-*Built by Joey Scully. Product and Commercial Analytics. Available for remote interim and contract work.*
+*Built by Joey Scully. Product and Commercial Analytics consultant. Available for remote interim and contract work.*

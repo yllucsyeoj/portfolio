@@ -33,6 +33,8 @@ Each criterion is computed for every candidate site, normalised to a common scal
 
 This describes the model and the approach, not the client's ranked output or its criteria weights, which belong to the client. A multi-criteria score is only as defensible as its weights, and weighting is a judgment: the design keeps every criterion transparent and separately inspectable precisely so that weight choices can be argued and tested rather than buried in a single black-box number. Several criteria are proxies, and the model is explicit about which. Some inputs are licensed and cannot be shared. The value here is the discipline of the design: a commercial question made fully computable, at continental scale, without pretending the judgment calls away.
 
+**Methods and tools:** multi-criteria decision analysis, signed-and-normalised scoring, 30-minute OSRM drive-time catchments, H3 hex-grid approximation, proxy design, Python.
+
 ---
 
 *Built by Joey Scully. Product and Commercial Analytics consultant. Available for remote interim and contract work.*

@@ -40,6 +40,8 @@ The judgment call is which control is appropriate for the mechanism. If the demo
 
 This is cross-sectional: it is an association in one election year, not causal proof, and reverse causation is plausible (an area's politics could drive migration, not only the other way round). The mechanism is inferred, not observed. The effect size is modest. And the central interpretive question (which scale of control to trust) is a judgment, which is exactly why the writeup states both sides rather than one. The value here is the discipline of the robustness ladder and the refusal to report only the flattering half of it.
 
+**Methods and tools:** hierarchical OLS specification ladder, fixed-effects models, spatial lag and spatial error models, contiguity weights, Moran's I, placebo testing, Python.
+
 ---
 
 *Built by Joey Scully. Product and Commercial Analytics consultant. Available for remote interim and contract work.*

@@ -37,6 +37,8 @@ Billing and clinical line items modelled in DuckDB. Revenue decomposed by quarte
 
 One clinic, two years, transactional data only, so it describes what happened rather than why each owner chose it. A large "uncategorised" bucket (health-check packages and adjustments) sits at roughly a third of revenue and blurs the edges of the mode analysis, which the writeup flags rather than smooths over. The ageing-cohort thesis is a forward bet the data frames but cannot yet confirm: the metric to watch is whether the young-adult patient count grows through 2026 and 2027.
 
+**Methods and tools:** revenue decomposition (volume versus mix), cohort-retention analysis, value-tier and Pareto concentration, DuckDB, Python.
+
 ---
 
 *Built by Joey Scully. Product and Commercial Analytics consultant. Available for remote interim and contract work.*

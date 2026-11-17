@@ -20,7 +20,7 @@ Customers on the chain's membership platform were worth **3.7x more** over their
 - **It killed its own best headline.** The NT$16.7M figure assumes every non-member can become an average member. When I split the non-members by value, 73% of them were below NT$5K lifetime, mostly one-time visitors: people boarding a pet once while travelling, or trying the service and not needing it again. They are structurally low-engagement, not un-asked. Only about 75 of the 1,014 were high-value customers genuinely worth converting. That is where the NT$1.7M lives.
 - **It kept correlation and causation apart.** Members engage more, but it is not established that enrolment *causes* the engagement rather than engaged customers *choosing* to enrol. I flagged this as something a controlled pilot has to settle, instead of asserting a causal NT$16.7M and letting someone budget against it.
 
-That is the job. Anyone can multiply a 3.7x gap by 1,014 customers and present a big number. The value is being the person who says the big number is wrong, shows why, and hands back the smaller one you can actually hit.
+Anyone can multiply a 3.7x gap by 1,014 customers and present a big number. The harder, more useful job is to say the big number is wrong, show why, and hand back the smaller one you can actually hit.
 
 ![Average lifetime value: members at NT$22,517 versus non-members at NT$6,058.](../assets/fig/pet_ltv.png)
 *The 3.7x gap is the headline. Whether enrolment causes it or engaged customers self-select into it is the question a pilot has to answer.*
@@ -38,6 +38,8 @@ Three years of transaction history aggregated to the customer: lifetime value, v
 ## Honest limits
 
 This is lagging transactional data only: no demographics, no satisfaction, no reason-for-leaving, so it describes what happened and cannot predict churn on its own. The 3.7x gap is a strong correlation whose causal share is unproven, which is exactly why the recommendation is a measured pilot rather than a full campaign. Ninety-day inactivity cannot be cleanly separated from a pet that has passed or a simple data lag. The honest NT$1.7M is a floor you can act on, not a ceiling.
+
+**Methods and tools:** cohort and lifetime-value analysis, value-tier segmentation, Pareto concentration, correlation-versus-causation framing, Python, pandas.
 
 ---
 

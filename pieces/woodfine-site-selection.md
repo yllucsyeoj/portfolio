@@ -44,6 +44,8 @@ The person is never the output; the catchment is. It is the same method lineage 
 
 Google Places is convenient and consistent across markets but is not a canonical store registry, so the counts are a sound proof of concept rather than an audited census. OpenStreetMap land-use completeness varies by area. The mobility panel used for catchments is a sample, skewed by who carries which apps, and inferred home locations are probabilistic, so it sizes and shapes a catchment rather than counting it exactly. The ranking weights encode a point of view and should be tuned with the investor, which is exactly what the explorer is for. The value is the method: a repeatable way to turn "find me places that look like this" into a short, scored, defensible shortlist, with the population behind each one attached.
 
+**Methods and tools:** graph-theoretic co-location modelling, clique enumeration (NetworkX), distance-decay weighting, TOPSIS multi-criteria ranking (scikit-criteria), enclosed morphological tessellation, mobility-based catchment inference, DuckDB, evidence.dev.
+
 ---
 
 *Built by Joey Scully. Product and Commercial Analytics consultant. Available for remote interim and contract work.*

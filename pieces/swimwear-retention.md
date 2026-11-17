@@ -20,7 +20,7 @@ description: Segmenting 221 wholesale accounts to find the 6% that carry a third
 - **The segmentation was validated before it was trusted.** Three clusters from Ward hierarchical clustering, cross-checked against an independent K-Means run. The two agreed at an Adjusted Rand Index of 0.96. The separation is honestly moderate (silhouette 0.32), and I say so rather than dressing it up. Retail behaviour is noisy; the test is whether the groups are stable and act differently, and they are.
 - **It ends in decisions, not a chart.** Each of the three segments gets a different operating playbook: account-management tier, pricing approach, assortment focus, and a specific growth action. The analysis is only useful at the point it changes what the sales team does on Monday.
 
-That middle point is the job. Anyone can run a clustering algorithm. The value is knowing which grouping to believe, being straight about how strong it is, and translating it into who gets a dedicated account manager and who moves to self-serve.
+Anyone can run a clustering algorithm. The part that matters is knowing which grouping to believe, being straight about how strong it is, and translating it into who gets a dedicated account manager and who moves to self-serve.
 
 ## The three segments
 
@@ -42,6 +42,8 @@ Eighteen features per customer across five families: economics (net revenue, mon
 ## Honest limits
 
 Moderate cluster separation (silhouette 0.32), which is normal for retail behavioural data and the reason the stability check matters more than the raw score. This is one brand's wholesale channel over three and a half years, so the segment shapes are specific to it. Geographic reference values are county-level public statistics, not account-level. It is a description of how the book of business is structured today and what to do about it, which is all it claims to be.
+
+**Methods and tools:** customer segmentation, Ward hierarchical clustering, K-Means stability check (Adjusted Rand Index), silhouette validation, outlier-robust scaling, OLS trend fitting, Python, scikit-learn, UMAP.
 
 ---
 

@@ -32,7 +32,9 @@ Public property records give high-value flat transactions; the address parser an
 
 ## Honest limits
 
-This describes the method and its intent, not the archetypes themselves: the client's findings were delivered to them and are not mine to publish, so there are no cluster profiles or numbers here. A mobility panel is a sample, skewed by who carries which apps, and inferred residence and dwell behaviour are probabilistic rather than ground truth. The address resolution is imperfect, so the comparable buildings are a subset. The mobility data is licensed and privacy-constrained; nothing individual is shown or shareable. The value on display is the approach: turning "who will live in our building" into a defensible, aggregate, build-around-able set of archetypes, from data that was never meant to answer it.
+This describes the method and its intent, not the archetypes themselves: the client's findings were delivered to them and are not mine to publish, so there are no cluster profiles or numbers here. A mobility panel is a sample, skewed by who carries which apps, and inferred residence and dwell behaviour are probabilistic rather than ground truth. The address resolution is imperfect, so the comparable buildings are a subset. The mobility data is licensed and privacy-constrained; nothing individual is shown or shareable. The value on display is the approach: turning "who will live in our building" into a defensible, aggregate set of archetypes you can design around, from data that was never meant to answer it.
+
+**Methods and tools:** address entity resolution, morphological enclosed tessellation (momepy), mobility stay-point detection (pymove), points-of-interest attribution, behavioural clustering, Python.
 
 ---
 
