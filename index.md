@@ -44,4 +44,4 @@ Across these projects: customer segmentation and cohort analysis, multi-criteria
 ## Contact
 
 - Email: scully.joey@gmail.com
-- LinkedIn: _confirm your profile slug and I'll wire the link_
+- LinkedIn: [linkedin.com/in/joeyscully](https://www.linkedin.com/in/joeyscully)
