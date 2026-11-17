@@ -5,7 +5,7 @@ description: A vehicle-routing and geodemographic study for Hines that put a num
 
 *A decision-science study for Hines, the global real estate investor, through London Data Unit. Published as a research paper (LDU-HINES 001, 2020). Built on public data: ONS Census, OpenStreetMap, OSRM, Ordnance Survey AddressBase.*
 
-[&larr; Back to portfolio](../)
+[&larr; Back to portfolio](../) · [Read the full 44-page paper (PDF)](../papers/hines001-logistics-location-analysis.pdf)
 
 ## The finding in one line
 

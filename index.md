@@ -15,6 +15,7 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 
 - **[A membership programme worth NT$16.7M, or NT$1.7M?](pieces/pet-retention):** a pet-services chain's enrolment opportunity looked ten times bigger than it was. Found the honest, actionable number and the retention problem underneath it. **Live.**
 - **[Where a swimwear brand's revenue actually lives](pieces/swimwear-retention):** segmented 221 wholesale accounts and found that 6% of them carry a third of revenue while the mainstream base quietly shrinks. Ends in a different playbook per segment. **Live.**
+- **[A clinic that was quietly becoming a different business](pieces/vet-clinic):** revenue up 57% and visits tripled, but the average ticket halved. A surgical practice had turned into a chronic-care one, and its future rested on a cohort bet nobody had named. **Live.**
 
 ### Decision science and logistics
 
@@ -23,6 +24,10 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 ### Marketplace and growth
 
 - **Cold-start supply from regulatory signals:** used public licensing data to seed the supply side of a B2B marketplace before it had sellers. *(writeup in preparation)*
+
+### Market research and segmentation
+
+- **[Who actually buys a pre-planned pet funeral](pieces/pet-survey):** a survey of 267 pet owners run with real statistical discipline, where the obvious segments (age, gender) predicted nothing and a behavioural chain predicted everything. **Live.**
 
 ### Markets and signals
 

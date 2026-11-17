@@ -1,0 +1,36 @@
+---
+title: A clinic that was quietly becoming a different business
+description: Revenue up 57%, visits tripled, and the average ticket halved. Behind a healthy top line, a surgical practice had turned into a chronic-care one, and its whole future rested on a bet nobody had named.
+---
+
+*A business-intelligence study of a Taiwan vet clinic: 14,791 billing line items and 20,589 clinical records, April 2024 to March 2026. Client anonymised; data held privately under confidentiality.*
+
+[&larr; Back to portfolio](../)
+
+## The finding in one line
+
+The clinic looked like a clear success: visits nearly tripled in 18 months and revenue grew 57% year on year. But the **average ticket had halved**, from about NT$5,500 to NT$2,600. Underneath a healthy top line, the business had quietly stopped being a surgical practice and become a wellness and chronic-care one, and its entire future rested on a cohort-retention bet that no one had written down.
+
+## What this piece demonstrates
+
+- **It read the mechanism of growth, not just the direction.** Revenue up and to the right is where most reporting stops. The composition told the real story: more visits, each worth far less, because the case mix had shifted.
+- **It named a strategic shift the owners were living but had not quantified.** Surgery revenue fell about 93% over five quarters while medication grew roughly 13x. The falling average ticket was a change in what the clinic does, not price erosion. Those are opposite diagnoses with opposite responses.
+- **It found the single bet the business depends on.** 82% of patients were enrolled as puppies or kittens, and revenue per patient runs about 2.4x higher once they reach adulthood, yet the prime-adult bracket is currently empty. The clinic's future is almost entirely "do we keep the 2024 puppy cohort as they age," and that reframes what to measure.
+
+## The risks the numbers expose
+
+- **Revenue is hyper-concentrated.** 6.5% of owners generate 45% of revenue, averaging 23 visits and chronic, complex care. Losing three or four of them is a material event, so they need active relationship management and an early-warning signal on visit cadence.
+- **Retention leaks at the front door.** 44% of patients visit once and never return, and their visit mix is skewed toward exactly the wellness and health-check visits that should generate a follow-up. A simple two-week post-first-visit nudge is the obvious lever.
+- **A hidden operational tell.** Tuesday carries 23% of revenue on mid-pack volume, with an average ticket nearly double any other day, which points at specialist and imaging work clustered on one day and a scheduling question worth asking.
+
+## Method
+
+Billing and clinical line items modelled in DuckDB. Revenue decomposed by quarter, service category, and clinical mode to separate volume growth from mix shift. Owners segmented into value tiers and run through a Pareto concentration analysis. Patients cohorted by first-visit date and by age at enrolment to test the retention-and-ageing thesis, then cross-referenced with breed-level treatment patterns to locate where future chronic-care revenue is likely to come from.
+
+## Honest limits
+
+One clinic, two years, transactional data only, so it describes what happened rather than why each owner chose it. A large "uncategorised" bucket (health-check packages and adjustments) sits at roughly a third of revenue and blurs the edges of the mode analysis, which the writeup flags rather than smooths over. The ageing-cohort thesis is a forward bet the data frames but cannot yet confirm: the metric to watch is whether the young-adult patient count grows through 2026 and 2027.
+
+---
+
+*Built by Joey Scully. Product and Commercial Analytics consultant. Available for remote interim and contract work.*
