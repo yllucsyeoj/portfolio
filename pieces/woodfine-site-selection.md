@@ -7,6 +7,8 @@ description: An investment thesis needed locations where a Walmart, a Costco and
 
 [&larr; Back to portfolio](../)
 
+**Objective:** find US locations where several big-box retailers already cluster, and turn thousands of raw candidates into a ranked, decision-ready shortlist.
+
 ## The finding in one line
 
 The investment thesis wanted sites where several big-box retailers (a department store, a hardware store, a food distributor) already sit close together, on the logic that they have each solved the same location problem. The usual way to find those is to pile data layers onto a map and hunt by eye. Instead I modelled every candidate store in the country as a node in a graph, connected each to its nearest neighbour of every other type, and extracted the **9,189 "cliques"** where one of each sits mutually closest. Then I made that list tractable, ranking it down to **41 strong candidates**.

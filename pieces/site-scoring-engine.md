@@ -7,6 +7,8 @@ description: A multi-criteria model that ranks an entire national network of fue
 
 [&larr; Back to portfolio](../)
 
+**Objective:** rank a national network of fuel-and-logistics sites, with competitor and greenfield sites alongside, by how good each is purely as a location, across six countries.
+
 ![The scoring model's criteria grouped into ten data families, from port throughput to competitor service provision.](../assets/fig/mcda_families.png)
 *The model scores each site against roughly 38 criteria drawn from ten data families. Breadth is the point: a good location is good for many separate reasons, and each one is measured on its own terms.*
 

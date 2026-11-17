@@ -7,6 +7,8 @@ description: Revenue up 57%, visits tripled, and the average ticket halved. Behi
 
 [&larr; Back to portfolio](../)
 
+**Objective:** explain why a clinic with fast-rising revenue felt financially exposed, and identify what its future actually depends on.
+
 ## The finding in one line
 
 The clinic looked like a clear success: visits nearly tripled in 18 months and revenue grew 57% year on year. But the **average ticket had halved**, from about NT$5,500 to NT$2,600. Underneath a healthy top line, the business had quietly stopped being a surgical practice and become a wellness and chronic-care one, and its entire future rested on a cohort-retention bet that no one had written down.

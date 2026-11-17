@@ -7,6 +7,8 @@ description: A vehicle-routing and geodemographic study for Hines that put a num
 
 [&larr; Back to portfolio](../) · [Read the full 44-page paper (PDF)](../papers/hines001-logistics-location-analysis.pdf)
 
+**Objective:** put a defensible number on the logistics cost hidden inside where a warehouse sits, so it could be priced into an investment decision.
+
 ![The full Greater London road network rendered as a routing graph.](../assets/fig/hines_network.png)
 *The Greater London road network as a routing graph. Travel-time matrices over this network drive the delivery simulation.*
 

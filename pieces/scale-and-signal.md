@@ -7,6 +7,8 @@ description: A self-directed study of German district-level data, and what to do
 
 [&larr; Back to portfolio](../)
 
+**Objective:** test whether a district's demographic make-up predicts how it votes, and decide what to do when the answer flips with the geographic scale of the controls.
+
 ![The sex-ratio coefficient across nine model specifications, surviving regional controls but collapsing under spatial ones.](../assets/fig/scale_ladder.png)
 *The headline variable's estimated effect across the model hierarchy. It holds under state and regional fixed effects and collapses under neighbour-based spatial models. That contradiction is the finding.*
 

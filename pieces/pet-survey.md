@@ -7,6 +7,8 @@ description: It is not the segment you would target. A survey of 267 pet owners,
 
 [&larr; Back to portfolio](../)
 
+**Objective:** find who to target for a pre-planned pet-funeral product, and test whether the obvious demographic segments are the right ones to aim at.
+
 ## The finding in one line
 
 The obvious way to target a pre-planned pet funeral product is by demographics: age, gender, "urban professional women in their forties." In this data **age and gender predicted nothing**. The real buyer is found through a behavioural chain: owners with 10+ years of tenure are far more likely to have experienced pet loss, which is by far the strongest predictor of knowing the product exists, which leads to a planning mindset, which is what actually predicts intent to buy.
@@ -19,6 +21,9 @@ The obvious way to target a pre-planned pet funeral product is by demographics: 
 - **It refused the obvious segmentation and proved it was empty.** Segmenting by "35 to 45 year old women" feels right and is not evidence-based here. After correcting for multiple comparisons, gender produced zero significant links to any key outcome and age predicted none of them. The piece says so plainly instead of quietly dropping it.
 - **It used real statistical discipline, not eyeballed cross-tabs.** 276 categorical pairs tested with Benjamini-Hochberg false-discovery correction and an effect-size floor, so the findings that survive are the ones worth acting on. 221 of the 276 pairs showed nothing, and that is reported as a result, not hidden.
 - **It turned the surviving signal into a targeting rule.** Tenure predicts loss experience (the strongest effect in the study), loss experience predicts awareness, awareness predicts a planning mindset, and planning predicts purchase intent. That is a chain, not a coincidence, and it names a warm audience that already sits inside the customer base.
+
+![The behavioural chain from ownership tenure through to purchase intent.](../assets/fig/survey_chain.png)
+*The chain behind the targeting rule. Long tenure makes pet loss more likely; loss experience is the strongest single predictor of knowing the product exists; awareness leads to a planning mindset, which predicts intent. Cramér's V shown where measured; age and gender attach nowhere on it. Anonymised survey, 267 respondents.*
 
 ## The commercial levers it surfaced
 

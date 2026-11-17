@@ -7,6 +7,8 @@ description: A signal that survives its own stress tests.
 
 [&larr; Back to portfolio](../) · [Code and full writeup on GitHub](https://github.com/yllucsyeoj/insider_buybacks)
 
+**Objective:** test a sharp, falsifiable version of "insiders selling into strength predicts weaker returns", and see whether it survives its own robustness checks.
+
 ## The finding in one line
 
 When a company's own officers sell stock after the price has run up hard, the stock tends to lag the market over the next 6 to 12 months. The heaviest "sell-into-strength" cases preceded roughly a **24% shortfall versus the S&P 500 over six months**, after stripping out each company's baseline drift and the broad market.

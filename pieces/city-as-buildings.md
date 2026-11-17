@@ -7,6 +7,8 @@ description: Finding the residents of comparable developments in an aggregate mo
 
 [&larr; Back to portfolio](../)
 
+**Objective:** profile who would live in a planned high-end residential scheme, by finding and clustering the residents of comparable existing buildings, to guide its design and marketing.
+
 ![Four unrelated datasets resolved to a building, then to resident archetypes.](../assets/fig/bp_assembly.png)
 *Four datasets that share no common key, resolved to one unit (the individual building) and then to the behavioural archetypes of the people who live in that kind of building.*
 

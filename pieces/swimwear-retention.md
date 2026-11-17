@@ -7,6 +7,8 @@ description: Segmenting 221 wholesale accounts to find the 6% that carry a third
 
 [&larr; Back to portfolio](../)
 
+**Objective:** work out which wholesale accounts to protect, where revenue is really concentrated, and why the base felt soft while the headline kept growing.
+
 ## The finding in one line
 
 **Twelve accounts, 6% of the customer base, generate 34.5% of wholesale revenue** (TWD 11.2M) and are still growing. Underneath them, the 75% of accounts that make up the mainstream channel are quietly shrinking at a median of **−82 TWD/month**. The business looks healthy in aggregate and is actually two opposite stories stacked on top of each other.

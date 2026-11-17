@@ -7,6 +7,8 @@ description: Direct purchase data understates concentration risk. Trace the flow
 
 [&larr; Back to portfolio](../)
 
+**Objective:** measure true supplier concentration when it hides one tier down, behind mills and re-exporters, using the global wheat trade as a worked example.
+
 ![Direct import share versus true share once flows are traced through intermediaries.](../assets/fig/dependency_tracing.png)
 *Direct import share against ultimate-origin share for 2021. Chad buys almost no wheat directly from the two exporters, yet half its supply ultimately comes from them. Egypt mills its own grain, so its two readings agree. Source: FAOSTAT; self-directed analysis.*
 

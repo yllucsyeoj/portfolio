@@ -7,6 +7,8 @@ description: A pet-services chain's enrolment opportunity looked like a 10x bigg
 
 [&larr; Back to portfolio](../)
 
+**Objective:** decide whether to launch a company-wide drive to enrol non-members, by sizing the prize honestly before any money was committed to chasing it.
+
 ## The finding in one line
 
 Customers on the chain's membership platform were worth **3.7x more** over their lifetime than those who had never joined (NT$22,517 vs NT$6,058). The obvious read was a **NT$16.7M prize**: enrol the 1,014 customers who had not joined, lift them to member value, bank the difference. That number was a mirage. The honest, reachable prize was closer to **NT$1.7M**, and saying so was the point of the engagement.
