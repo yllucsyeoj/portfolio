@@ -40,12 +40,14 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 
 **Tools and platforms:**
 
-- **Languages and data:** Python, pandas, NumPy, SQL, DuckDB
-- **Statistics and ML:** scikit-learn, statsmodels, hierarchical and K-Means clustering, UMAP, panel and spatial regression, false-discovery correction
-- **Geospatial:** GeoPandas, OSRM, Google OR-Tools, H3, momepy, pymove
+- **Languages and data:** Python, pandas, Polars, NumPy, SQL, Apache Arrow and Parquet, Jupyter
+- **Databases and warehouses:** PostgreSQL, PostGIS, DuckDB, BigQuery, SQLite
+- **Statistics and ML:** scikit-learn, statsmodels, SciPy, PySAL, hierarchical and K-Means clustering, UMAP, panel and spatial regression, false-discovery correction
+- **GPU acceleration:** RAPIDS (cuDF, cuML)
+- **Geospatial and routing:** GeoPandas, Shapely, GDAL/OGR, rasterio, QGIS, OSRM, Valhalla, Google OR-Tools, H3, momepy, pymove
+- **Orchestration and workflow:** Apache Airflow, Prefect, dbt, Docker, Git and GitHub, reproducible pipelines, automated tests and CI
+- **BI and visualisation:** matplotlib, Plotly, Apache Superset, Metabase, evidence.dev
 - **Networks and decision models:** NetworkX, scikit-criteria (TOPSIS)
-- **Visualisation and delivery:** matplotlib, evidence.dev, lightweight DuckDB data apps
-- **Workflow:** Git and GitHub, reproducible pipelines, automated test suites
 
 ## Contact
 
