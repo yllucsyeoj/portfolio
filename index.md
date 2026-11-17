@@ -3,7 +3,7 @@ title: Joey Scully
 description: Product and Commercial Analytics — growth, retention, margin, pricing.
 ---
 
-I work with founders and operators on the questions that sit between the data team and the commercial team: why isn't this converting, where is the margin actually going, which customers are worth keeping, what should we charge. The work is diagnosing the business problem from the numbers, then helping build what addresses it.
+I help founders and operators with the commercial questions that sit between the data team and the business: why isn't this converting, where is the margin actually going, which customers are worth keeping, what to charge. That is the core of what I do. I also bring a wider analytical range to the harder problems, the spatial, statistical and decision-science work further down this page, where the question will not fit a dashboard. Either way the job is the same: find the real problem in the numbers, then help build what fixes it.
 
 Available for remote interim and contract work.
 
@@ -13,9 +13,9 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 
 ### Commercial and customer analytics
 
-- **[A membership programme worth NT$16.7M, or NT$1.7M?](pieces/pet-retention):** a pet-services chain's enrolment opportunity looked ten times bigger than it was. Found the honest, actionable number and the retention problem underneath it. **Live.**
-- **[Where a swimwear brand's revenue actually lives](pieces/swimwear-retention):** segmented 221 wholesale accounts and found that 6% of them carry a third of revenue while the mainstream base quietly shrinks. Ends in a different playbook per segment. **Live.**
-- **[A clinic that was quietly becoming a different business](pieces/vet-clinic):** revenue up 57% and visits tripled, but the average ticket halved. A surgical practice had turned into a chronic-care one, and its future rested on a cohort bet nobody had named. **Live.**
+- **[A membership programme worth NT$16.7M, or NT$1.7M?](pieces/pet-retention):** kept a pet-services chain from spending against a NT$16.7M enrolment prize that was really NT$1.7M, and surfaced the retention leak that was the real problem. **Live.**
+- **[Where a swimwear brand's revenue actually lives](pieces/swimwear-retention):** showed that 6% of 221 wholesale accounts carry a third of revenue while the mainstream base quietly shrinks, then set a different commercial playbook for each segment. **Live.**
+- **[A clinic that was quietly becoming a different business](pieces/vet-clinic):** behind 57% revenue growth, found the average ticket had halved as a surgery practice turned into chronic care, and named the cohort-retention bet its future now depends on. **Live.**
 
 ### Decision science and logistics
 
@@ -36,7 +36,16 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 
 ## Methods and tools
 
-Across these projects: customer segmentation and cohort analysis, multi-criteria decision models (TOPSIS), spatial and geodemographic analysis, panel regression with robustness testing, vehicle-routing and drive-time catchments, and survey analysis with multiple-comparison discipline. Mostly Python, with DuckDB, OSRM, NetworkX, scikit-learn and scikit-criteria.
+**What I do:** customer segmentation, cohort and lifetime-value analysis, retention and churn diagnosis, revenue and margin decomposition, pricing and willingness-to-pay analysis, experiment and pilot design, Pareto and concentration analysis, panel regression with robustness testing, multi-criteria decision models, spatial and geodemographic analysis, network and graph analysis, and survey analysis with proper multiple-comparison discipline.
+
+**Tools and platforms:**
+
+- **Languages and data:** Python, pandas, NumPy, SQL, DuckDB
+- **Statistics and ML:** scikit-learn, statsmodels, hierarchical and K-Means clustering, UMAP, panel and spatial regression, false-discovery correction
+- **Geospatial:** GeoPandas, OSRM, Google OR-Tools, H3, momepy, pymove
+- **Networks and decision models:** NetworkX, scikit-criteria (TOPSIS)
+- **Visualisation and delivery:** matplotlib, evidence.dev, lightweight DuckDB data apps
+- **Workflow:** Git and GitHub, reproducible pipelines, automated test suites
 
 ## Contact
 
