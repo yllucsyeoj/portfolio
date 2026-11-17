@@ -1,6 +1,7 @@
 ---
 title: Joey Scully
-description: Product and Commercial Analytics — growth, retention, margin, pricing.
+description: Product and Commercial Analytics. Growth, retention, margin, pricing.
+hero: true
 ---
 
 I help founders and operators with the commercial questions that sit between the data team and the business: why isn't this converting, where is the margin actually going, which customers are worth keeping, what to charge. That is the core of what I do. I also bring a wider analytical range to the harder problems, the spatial, statistical and decision-science work further down this page, where the question will not fit a dashboard. Either way the job is the same: find the real problem in the numbers, then help build what fixes it.

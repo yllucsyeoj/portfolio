@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.hero %}{{ page.title }}{% else %}{{ page.title }} · Joey Scully{% endif %}</title>
+  <meta name="description" content="{{ page.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="site-head">
+    <div class="wrap bar">
+      <a class="brand" href="{{ '/' | relative_url }}">Joey Scully</a>
+      <nav class="nav">
+        <a href="{{ '/' | relative_url }}#selected-work">Work</a>
+        <a href="{{ '/' | relative_url }}#methods-and-tools">Stack</a>
+        <a href="{{ '/' | relative_url }}#contact">Contact</a>
+        <a href="https://www.linkedin.com/in/joeyscully">LinkedIn</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap content">
+    {% if page.hero %}
+      <section class="hero">
+        <h1>{{ page.title }}</h1>
+        <p class="tagline">{{ page.description }}</p>
+      </section>
+    {% else %}
+      <h1 class="piece-title">{{ page.title }}</h1>
+    {% endif %}
+    {{ content }}
+  </main>
+
+  <footer class="site-foot">
+    <div class="wrap bar">
+      <span>Joey Scully · Product and Commercial Analytics</span>
+      <span><a href="mailto:scully.joey@gmail.com">scully.joey@gmail.com</a></span>
+    </div>
+  </footer>
+</body>
+</html>

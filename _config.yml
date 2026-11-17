@@ -1,4 +1,12 @@
-title: Joey Scully — Product & Commercial Analytics
-description: Product and Commercial Analytics — growth, retention, margin, pricing.
-theme: jekyll-theme-cayman
+title: Joey Scully
+description: Product and Commercial Analytics. Growth, retention, margin, pricing.
 baseurl: "/portfolio"
+url: "https://yllucsyeoj.github.io"
+
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
