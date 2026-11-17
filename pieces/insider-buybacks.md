@@ -31,4 +31,4 @@ A historical association checked for robustness, not a prediction made in advanc
 
 ---
 
-*Built by Joey Scully. Product & Commercial Analytics: I find why the numbers aren't working and build the fix. Available for remote interim and contract work.*
+*Built by Joey Scully. Product and Commercial Analytics. Available for remote interim and contract work.*

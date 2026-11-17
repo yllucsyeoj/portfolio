@@ -1,9 +1,9 @@
 ---
 title: Joey Scully
-description: Product & Commercial Analytics. I find why the numbers aren't working and build the fix.
+description: Product and Commercial Analytics — growth, retention, margin, pricing.
 ---
 
-I work with founders and operators on the questions that sit between the data team and the commercial team: why isn't this converting, where is the margin actually going, which customers are worth keeping, what should we charge. I diagnose the business problem from the numbers, then build the thing that fixes it.
+I work with founders and operators on the questions that sit between the data team and the commercial team: why isn't this converting, where is the margin actually going, which customers are worth keeping, what should we charge. The work is diagnosing the business problem from the numbers, then helping build what addresses it.
 
 Available for remote interim and contract work.
 
