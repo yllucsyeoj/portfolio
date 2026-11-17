@@ -9,6 +9,7 @@
   --rule:#e7e3da;
   --maxw:720px;
   --barw:960px;
+  --serif:"Fraunces",Georgia,"Times New Roman",serif;
 }
 
 *{box-sizing:border-box}
@@ -42,12 +43,12 @@ body{
 /* content */
 .content{padding-top:8px;padding-bottom:88px}
 .hero{padding:56px 0 20px}
-.hero h1{font-size:46px;line-height:1.08;letter-spacing:-0.035em;font-weight:700;color:var(--ink);margin:0 0 16px}
+.hero h1{font-family:var(--serif);font-size:52px;line-height:1.06;letter-spacing:-0.015em;font-weight:600;color:var(--ink);margin:0 0 18px}
 .tagline{font-size:20px;line-height:1.5;color:var(--muted);margin:0;max-width:34ch}
-.piece-title{font-size:36px;line-height:1.15;letter-spacing:-0.025em;font-weight:700;color:var(--ink);margin:44px 0 22px}
+.piece-title{font-family:var(--serif);font-size:40px;line-height:1.12;letter-spacing:-0.01em;font-weight:600;color:var(--ink);margin:44px 0 22px}
 
-h2{font-size:24px;letter-spacing:-0.015em;font-weight:600;color:var(--ink);margin:52px 0 14px;scroll-margin-top:86px}
-h3{font-size:19px;font-weight:600;color:var(--ink);margin:34px 0 10px}
+h2{font-family:var(--serif);font-size:27px;letter-spacing:-0.005em;font-weight:600;color:var(--ink);margin:52px 0 14px;scroll-margin-top:86px}
+h3{font-family:var(--serif);font-size:21px;font-weight:600;color:var(--ink);margin:34px 0 10px}
 p{margin:0 0 20px}
 
 a{color:var(--accent-ink);text-decoration:none}
@@ -95,10 +96,10 @@ hr{border:0;border-top:1px solid var(--rule);margin:52px 0}
 @media(max-width:620px){
   body{font-size:17px}
   .hero{padding:36px 0 14px}
-  .hero h1{font-size:34px}
+  .hero h1{font-size:39px}
   .tagline{font-size:18px}
-  .piece-title{font-size:28px}
-  h2{font-size:22px;margin-top:40px}
+  .piece-title{font-size:31px}
+  h2{font-size:24px;margin-top:40px}
   .nav a{margin-left:16px;font-size:14px}
   .site-foot .bar{flex-direction:column;gap:6px}
 }
