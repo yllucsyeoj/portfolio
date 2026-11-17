@@ -16,7 +16,7 @@ description: Segmenting 221 wholesale accounts to find the 6% that carry a third
 
 ## What this piece demonstrates
 
-- **It starts from the commercial question, not the clustering.** The brief was not "segment the customers." It was: which relationships do we protect, where is the money really concentrated, and why does the base feel soft even while the headline grows. The segmentation exists to answer those.
+- **It starts from the commercial question.** The brief was never "segment the customers." It was: which relationships do we protect, where is the money really concentrated, and why does the base feel soft even while the headline grows. The segmentation exists to answer those.
 - **The segmentation was validated before it was trusted.** Three clusters from Ward hierarchical clustering, cross-checked against an independent K-Means run. The two agreed at an Adjusted Rand Index of 0.96. The separation is honestly moderate (silhouette 0.32), and I say so rather than dressing it up. Retail behaviour is noisy; the test is whether the groups are stable and act differently, and they are.
 - **It ends in decisions, not a chart.** Each of the three segments gets a different operating playbook: account-management tier, pricing approach, assortment focus, and a specific growth action. The analysis is only useful at the point it changes what the sales team does on Monday.
 

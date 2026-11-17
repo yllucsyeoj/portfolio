@@ -16,7 +16,7 @@ Customers on the chain's membership platform were worth **3.7x more** over their
 
 ## What this piece demonstrates
 
-- **It started from the decision, not the dashboard.** The question on the table was whether to run a large enrolment campaign. So the job was to size that prize properly before anyone spent money chasing it.
+- **It started from the decision on the table.** The question was whether to run a large enrolment campaign, so the job was to size that prize properly before anyone spent money chasing it.
 - **It killed its own best headline.** The NT$16.7M figure assumes every non-member can become an average member. When I split the non-members by value, 73% of them were below NT$5K lifetime, mostly one-time visitors: people boarding a pet once while travelling, or trying the service and not needing it again. They are structurally low-engagement, not un-asked. Only about 75 of the 1,014 were high-value customers genuinely worth converting. That is where the NT$1.7M lives.
 - **It kept correlation and causation apart.** Members engage more, but it is not established that enrolment *causes* the engagement rather than engaged customers *choosing* to enrol. I flagged this as something a controlled pilot has to settle, instead of asserting a causal NT$16.7M and letting someone budget against it.
 
