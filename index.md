@@ -30,9 +30,10 @@ Each piece below is a real analysis. Some client work is anonymised; self-direct
 
 - **[Who actually buys a pre-planned pet funeral](pieces/pet-survey):** a survey of 267 pet owners run with real statistical discipline, where the obvious segments (age, gender) predicted nothing and a behavioural chain predicted everything. **Live.**
 
-### Markets and signals
+### Signals and robustness
 
 - **[Insiders selling into strength](pieces/insider-buybacks):** a study of 9,009 officer stock sales across 48 US companies, and the signal that survived its own stress tests. Full code and 84 offline tests in the repo. **Live.**
+- **[A finding that survives some tests and fails others](pieces/scale-and-signal):** a self-directed study of German district-level data where a demographic signal holds under regional controls and collapses under spatial ones. The piece is about which of the two answers to trust, and why. **Live.**
 
 ## Contact
 
