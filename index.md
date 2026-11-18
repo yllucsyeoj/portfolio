@@ -1,6 +1,6 @@
 ---
 title: Joey Scully
-description: Product and Commercial Analytics. Growth, retention, margin, pricing.
+description: Product and Commercial Analytics. Growth, retention, margin, pricing, strategy.
 hero: true
 ---
 
