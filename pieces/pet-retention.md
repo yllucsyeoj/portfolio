@@ -18,9 +18,9 @@ Customers on the chain's membership platform were worth **3.7x more** over their
 
 ## What this piece demonstrates
 
-- **It started from the decision on the table.** The question was whether to run a large enrolment campaign, so the job was to size that prize properly before anyone spent money chasing it.
-- **It killed its own best headline.** The NT$16.7M figure assumes every non-member can become an average member. When I split the non-members by value, 73% of them were below NT$5K lifetime, mostly one-time visitors: people boarding a pet once while travelling, or trying the service and not needing it again. They are structurally low-engagement, not un-asked. Only about 75 of the 1,014 were high-value customers genuinely worth converting. That is where the NT$1.7M lives.
-- **It kept correlation and causation apart.** Members engage more, but it is not established that enrolment *causes* the engagement rather than engaged customers *choosing* to enrol. I flagged this as something a controlled pilot has to settle, instead of asserting a causal NT$16.7M and letting someone budget against it.
+- **It started from the decision on the table.** The question was whether to run a large enrolment campaign, so the job was to size that prize properly before anyone spent money chasing it. A number that big, presented without its caveats, tends to set a budget, and the budget then becomes very hard to argue back down once it is anchored.
+- **It killed its own best headline.** The NT$16.7M figure assumes every non-member can become an average member. When I split the non-members by value, 73% of them were below NT$5K lifetime, mostly one-time visitors: people boarding a pet once while travelling, or trying the service and not needing it again. They are structurally low-engagement, not un-asked. Only about 75 of the 1,014 were high-value customers genuinely worth converting. That is where the NT$1.7M lives, and it is a prize you can actually plan a campaign around rather than one that evaporates on contact.
+- **It kept correlation and causation apart.** Members engage more, but it is not established that enrolment *causes* the engagement rather than engaged customers *choosing* to enrol. The direction matters enormously: if enrolment drives value, a campaign is worth running; if already-committed customers simply sign up, then enrolling a casual visitor changes nothing except the paperwork. I flagged this as something a controlled pilot has to settle, instead of asserting a causal NT$16.7M and letting someone budget against it.
 
 Anyone can multiply a 3.7x gap by 1,014 customers and present a big number. The harder, more useful job is to say the big number is wrong, show why, and hand back the smaller one you can actually hit.
 
@@ -29,9 +29,13 @@ Anyone can multiply a 3.7x gap by 1,014 customers and present a big number. The 
 
 ## What the customer base actually looked like
 
-- **Revenue is heavily concentrated.** The top 1% of customers (22 people) drove 19% of revenue; the top 10% drove 59%. Losing one of the biggest customers is equivalent to losing around 150 average ones.
-- **Non-members have a retention problem, not just an enrolment gap.** Half of non-members (50%) never came back after their first visit, against 22% for members. The one-time rate, not the enrolment rate, is the thing bleeding value.
-- **So the priority inverts.** The biggest customers are already enrolled, so there is little enrolment upside there; they need a retention and early-warning programme instead. The enrolment effort belongs narrowly on the ~75 high-value non-members, and the broad retention effort belongs on recent one-time visitors.
+- **Revenue is heavily concentrated.** The top 1% of customers (22 people) drove 19% of revenue; the top 10% drove 59%. Losing one of the biggest customers is equivalent to losing around 150 average ones, which quietly changes where the chain's attention should go: a retention slip among the top handful costs more than a good month of new enrolments.
+- **Non-members have a retention problem, not just an enrolment gap.** Half of non-members (50%) never came back after their first visit, against 22% for members. The one-time rate, not the enrolment rate, is the thing bleeding value, and it is a different problem with a different fix.
+- **So the priority inverts.** The biggest customers are already enrolled, so there is little enrolment upside there; they need a retention and early-warning programme instead. The enrolment effort belongs narrowly on the ~75 high-value non-members, and the broad retention effort belongs on recent one-time visitors. The campaign the headline implied, enrol everyone, would have spent the most money on the customers least able to repay it.
+
+## How I would test it
+
+Because the 3.7x gap is correlational, the honest next step is not a full rollout but a measured pilot: take the ~75 high-value non-members and a comparable held-back group, offer enrolment to one and not the other, and measure the difference in later value. That isolates the causal share of the gap at a fraction of the cost and risk of a company-wide campaign, and it turns the one open question in the analysis into something the business can actually answer with its own data.
 
 ## Method
 

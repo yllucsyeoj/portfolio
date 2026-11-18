@@ -35,7 +35,11 @@ Anyone can run a clustering algorithm. The part that matters is knowing which gr
 ![Revenue trend per segment: Key Accounts growing, the other two declining.](../assets/fig/swim_trend.png)
 *Monthly revenue trend by segment. The large mainstream base has the most negative trend, which points at category saturation rather than any single lost account.*
 
-The declining mainstream is the headline risk. It is a large, dispersed base of goggle-only accounts with the most negative trend of any segment, which points at category saturation rather than any single lost customer. A brand that only watched its total revenue line would miss it entirely, because the growing Key Accounts are papering over it.
+The declining mainstream is the headline risk. It is a large, dispersed base of goggle-only accounts with the most negative trend of any segment, which points at category saturation rather than any single lost customer. A brand that only watched its total revenue line would miss it entirely, because the growing Key Accounts are papering over it. The two stories cancel in the aggregate: the top of the book is getting stronger at roughly the rate the middle is weakening, so the headline sits flat-to-up and hides a base that is quietly hollowing out.
+
+## What the segmentation changes
+
+Left unsplit, this book of business invites one undifferentiated effort: the same pricing, the same attention, the same sell-in for everyone. The segmentation says that is wrong three times over. The twelve Key Accounts are too valuable to treat like the rest and too few to lose even one of, so they justify dedicated management and should never be left on a self-serve footing. The Standard Retailers are too many and too thinly spread to serve by hand, so the economics only work if most of them move to a lighter, self-serve model while the top quartile is held back for human attention. And the Swim Specialists are a distinct seasonal, cap-led business that rewards a pre-summer push and a club-and-school programme the other two segments would not use. The point of knowing which account sits in which group is that the right action for one is the wrong action for another, and a single playbook quietly overspends on the accounts least able to repay it while underserving the handful that carry the revenue.
 
 ## Method
 

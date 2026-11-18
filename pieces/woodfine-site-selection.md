@@ -13,8 +13,8 @@ description: An investment thesis needed locations where a Walmart, a Costco and
 
 The investment thesis wanted sites where several big-box retailers (a department store, a hardware store, a food distributor) already sit close together, on the logic that they have each solved the same location problem. The usual way to find those is to pile data layers onto a map and hunt by eye. Instead I modelled every candidate store in the country as a node in a graph, connected each to its nearest neighbour of every other type, and extracted the **9,189 "cliques"** where one of each sits mutually closest. Then I made that list tractable, ranking it down to **41 strong candidates**.
 
-![A national graph of retail locations: nodes are stores, edges link each to its nearest neighbour of another type.](../assets/fig/woodfine_graph.png)
-*Co-location modelled as a graph. Nodes are stores; edges connect each store to its nearest neighbour of a different class. Clusters of mutually-closest stores are the site candidates.*
+![Co-location modelled as a graph: stores of each type, linked to their nearest neighbours, with the tight triangles marked as candidates.](../assets/fig/woodfine_clique.png)
+*Co-location modelled as a graph. Each store links to its nearest neighbour of every other type; the tight triangles, where one of each sits mutually closest, are the site candidates. A loose, spread-out trio is not. Illustrative of the method.*
 
 ## What this piece demonstrates
 
@@ -25,8 +25,8 @@ The investment thesis wanted sites where several big-box retailers (a department
 ![The TOPSIS criteria weights, each with a direction and summing to one.](../assets/fig/woodfine_weights.png)
 *The ranking is transparent by design: every criterion has a weight and a direction, the weights sum to one, and they are meant to be tuned with the investor rather than hidden inside a score.*
 
-![US urban areas with candidate retail locations inside them.](../assets/fig/woodfine_urban.png)
-*The search was bounded to the 2,644 US Census urban areas, which pre-selects the places worth querying at all.*
+![Candidate retail locations inside one representative US urban area.](../assets/fig/woodfine_urban.png)
+*One urban area with its candidate stores picked out. The national search was bounded to the 2,644 US Census urban areas, so only the places worth querying at all were considered.*
 
 ## Method
 
