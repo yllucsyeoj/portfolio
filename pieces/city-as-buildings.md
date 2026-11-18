@@ -32,9 +32,15 @@ Public property records give high-value flat transactions; the address parser an
 ![A messy address string resolved into structured, joinable fields.](../assets/fig/bp_entity.png)
 *The parser that makes the join possible: free-text address strings resolved into the structured fields that let property records and the address register meet.*
 
+## What it found
+
+The residents of comparable developments resolved into five behavioural archetypes: finance professionals, doctors and medical staff, students, government workers, and people in IT and technical roles. Each was profiled across six categories of amenity: dining and drinking, retail, landmarks and outdoors, business and professional services, arts and entertainment, and sport and recreation, built from where its members actually spend time across the city rather than from assumption.
+
+The scale underneath that: roughly 15 billion mobile position fixes across Greater London, narrowed to the residents of 536 comparable developments (2,362 high-value sales, after filtering on price, size, unit count and transaction history). What is shown here is the shape of the result, who the likely residents are and which kinds of place each group gravitates to. The detailed profile of each archetype, and the design and marketing recommendations drawn from them, belong to the client and stay with them.
+
 ## Honest limits
 
-This describes the method and its intent, not the archetypes themselves: the client's findings were delivered to them and are not mine to publish, so there are no cluster profiles or numbers here. A mobility panel is a sample, skewed by who carries which apps, and inferred residence and dwell behaviour are probabilistic rather than ground truth. The address resolution is imperfect, so the comparable buildings are a subset. The mobility data is licensed and privacy-constrained; nothing individual is shown or shareable. The value on display is the approach: turning "who will live in our building" into a defensible, aggregate set of archetypes you can design around, from data that was never meant to answer it.
+This shows the method and the shape of what it found, not the detailed per-archetype profiles or the recommendations drawn from them: those were delivered to the client and are theirs, not mine to publish. A mobility panel is a sample, skewed by who carries which apps, and inferred residence and dwell behaviour are probabilistic rather than ground truth. The address resolution is imperfect, so the comparable buildings are a subset. The mobility data is licensed and privacy-constrained; nothing individual is shown or shareable. The value on display is the approach: turning "who will live in our building" into a defensible, aggregate set of archetypes you can design around, from data that was never meant to answer it.
 
 **Methods and tools:** address entity resolution, morphological enclosed tessellation (momepy), mobility stay-point detection (pymove), points-of-interest attribution, behavioural clustering, Python.
 
